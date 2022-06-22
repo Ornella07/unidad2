@@ -1,0 +1,11 @@
+h2{
+    color:red;
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+}
+p{
+    color:blue;
+    column-count: 2;
+}
